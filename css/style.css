@@ -49,8 +49,9 @@ div{
     background-color: #008000;
     text-align: left;
 }
-footer>p{
+footer p{
     text-align:right;
     padding-bottom: 10px;
     padding-right:10px;
+}
 }
